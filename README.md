@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Suyash Tambe!  
 
+### 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suyashtambe&theme=flat&no-bg=true&margin-w=10)
+
+
 ## 🚀 About Me  
 🔹 Passionate developer & AI enthusiast  
 🔹 Always exploring new tech & pushing boundaries  
