@@ -1,9 +1,11 @@
 # 👋 Hey, I'm Suyash Tambe!  
 
+           AI student from India Symbiosis university 
+
 ### 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suyashtambe&theme=flat&no-bg=true&margin-w=10)
 
-
+Currently working on GANS and CV 
 ## 🚀 About Me  
 🔹 Passionate developer & AI enthusiast  
 🔹 Always exploring new tech & pushing boundaries  
@@ -22,7 +24,7 @@
 ✅ **LLMs & GPT-2** – NLP & AI-driven content generation  
 
 ## 🌟 Let's Connect!  
-📬 Feel free to reach out for collaborations, AI discussions, or just to say hi!  
+📬 Feel free to reach out for collaborations, AI discussions, or to say hi!  
 📌 [LinkedIn](https://www.linkedin.com/in/suyashtambe/) |   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suyashtambe&style=flat-square)  
