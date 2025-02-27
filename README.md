@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Suyash Tambe!  
 
-<!--
-**suyashtambe/suyashtambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🔹 Passionate developer & AI enthusiast  
+🔹 Always exploring new tech & pushing boundaries  
+🔹 Blending creativity with problem-solving  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+💻 Programming: Python | C | Java | JavaScript  
+🌐 Web Dev: HTML | CSS | React  
+🤖 AI & ML: GANs | Sequential CNNs | Deepfake Detection | LLMs | GPT-2  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 AI & Deep Learning  
+🚀 Worked on cutting-edge AI models like:  
+✅ **GANs** – Generating realistic data  
+✅ **Sequential CNNs** – Image recognition & analysis  
+✅ **Deepfake Detection** – Identifying synthetic media  
+✅ **LLMs & GPT-2** – NLP & AI-driven content generation  
+
+## 🌟 Let's Connect!  
+📬 Feel free to reach out for collaborations, AI discussions, or just to say hi!  
+📌 [LinkedIn]([#](https://www.linkedin.com/in/suyashtambe/)) | [Portfolio](#) | [Twitter](#)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=suyashtambe&style=flat-square)  
