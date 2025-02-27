@@ -19,6 +19,6 @@
 
 ## 🌟 Let's Connect!  
 📬 Feel free to reach out for collaborations, AI discussions, or just to say hi!  
-📌 [LinkedIn]([#](https://www.linkedin.com/in/suyashtambe/)) | [Portfolio](#) | [Twitter](#)  
+📌 [LinkedIn]((https://www.linkedin.com/in/suyashtambe/)) | [Portfolio](#) | [Twitter](#)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suyashtambe&style=flat-square)  
