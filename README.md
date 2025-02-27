@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Suyash Tambe!  
 
-          ## AI student from India Symbiosis University 
+                        AI student from India, Symbiosis University 
 
 ### 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suyashtambe&theme=flat&no-bg=true&margin-w=10)
