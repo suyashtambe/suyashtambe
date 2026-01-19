@@ -5,7 +5,6 @@
 ### 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suyashtambe&theme=flat&no-bg=true&margin-w=10)
 
-Currently working on GANS and CV 
 ## 🚀 About Me  
 🔹 Passionate developer & AI enthusiast  
 🔹 Always exploring new tech & pushing boundaries  
@@ -13,7 +12,7 @@ Currently working on GANS and CV
 
 ## 🛠️ Tech Stack  
 💻 Programming: Python | C | Java | JavaScript  
-🌐 Web Dev: HTML | CSS | React  
+🌐 Web Dev: HTML | CSS | React  | Express | TSX | JSX
 🤖 AI & ML: GANs | Sequential CNNs | Deepfake Detection | LLMs | GPT-2  
 
 ## 🧠 AI & Deep Learning  
